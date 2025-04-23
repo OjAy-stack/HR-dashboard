@@ -30,7 +30,7 @@ Built using modern BI tools, this dashboard includes three main pages:
 - 👥 **Sex Distribution**: 56.6% Male, 43.4% Female
 - 🏛️ **Top Department**: Production (209 employees)
 - 🌍 **Citizenship**: 94.9% US Citizens
-- 💍 **Marital Status**: 44.1% Single, 39.9% Married
+- 💍 **Marital Status**: 44.1% Single, 39.9% Married, Others Divorced, Separated or Widowed
 - 🧓 **Age Group with Most Employees**: 40–49 years (128 employees)
 - 🎨 **Race**: Majority White (187), followed by Black or African American (80)
 
@@ -57,9 +57,9 @@ Built using modern BI tools, this dashboard includes three main pages:
 
 ## 💡 About This Project
 
-Hi, I’m **Ayomikun Ojueroimi**, a data enthusiast with a passion for turning raw data into actionable insights. This HR dashboard is part of my analytics journey, combining business acumen and visualization techniques to help HR teams make informed decisions.
+Hi, I’m **Ayomikun Ojueromi**, a data analyst with a passion for turning raw data into actionable insights. This HR dashboard combines HR knowledge, business intelligence and visualization techniques to help HR teams make informed decisions.
 
-Through this project, I’ve improved my:
+Through this project, I am able to showcase my:
 - Workforce data storytelling
 - Dashboard structuring for clarity and flow
 - Use of visuals to convey demographics and trends
@@ -87,4 +87,4 @@ Through this project, I’ve improved my:
 
 ## 💬 Feedback?
 
-Open an issue or reach out! I’m always looking to improve and would love to hear your thoughts.
+Open an issue or connect with me! I am always learning and would love to collaborate with other analysts and data-lovers.
