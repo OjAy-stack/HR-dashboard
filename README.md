@@ -1,10 +1,10 @@
-# 🧑‍💼 HR Analytics Dashboard
+# 👥 HR Analytics Dashboard
 
 This interactive dashboard provides an insightful overview of a company's workforce, using real HR data to break down employee demographics, headcount trends, and attrition behavior. It's designed to support data-driven decision-making in HR management.
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Dashboard Summary
 
 Built using modern BI tools, this dashboard includes three main pages:
 
@@ -75,7 +75,7 @@ Through this project, I am able to showcase my:
 | `HR Dashboard Page 2.png` | Dashboard Attrition Page |
 | `HR Dashboard Page 1.png` | Dashboard Employee Details Page |
 | `HR_Dataset.csv` | Employee csv dataset |
-| `README.md` | Project overview (you’re reading it!) |
+| `README.md` | Project Summary (you’re reading it!) |
 
 ---
 
